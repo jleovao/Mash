@@ -12,4 +12,5 @@ program in a way that would allow a user to create and save their own files in a
 also like to make the program more flexible by not limiting the options per category to just 4.
 
 To Compile  : g++ -std=c++11 main.cpp Mash.cpp -lpthread -o Mash
+
 Run program : ./Mash
